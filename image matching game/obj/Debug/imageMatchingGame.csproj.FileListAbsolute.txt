@@ -18,3 +18,13 @@ C:\Users\R\Desktop\VStudio projects\image matching game\resim esleme oyunu\obj\D
 C:\Users\R\Desktop\VStudio projects\image matching game\resim esleme oyunu\obj\Debug\imageMatchingGame.messageBoxForm.resources
 C:\Users\R\Desktop\VStudio projects\image matching game\resim esleme oyunu\obj\Debug\imageMatchingGame.Properties.Resources.resources
 C:\Users\R\Desktop\VStudio projects\image matching game\resim esleme oyunu\obj\Debug\imageMatchingGame.csproj.GenerateResource.Cache
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\bin\Debug\resim esleme oyunu.exe.config
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\obj\Debug\resim esleme oyunu.exe
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\obj\Debug\resim esleme oyunu.pdb
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\bin\Debug\resim esleme oyunu.exe
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\bin\Debug\resim esleme oyunu.pdb
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\obj\Debug\imageMatchingGame.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\obj\Debug\imageMatchingGame.gameForm.resources
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\obj\Debug\imageMatchingGame.messageBoxForm.resources
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\obj\Debug\imageMatchingGame.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\image matching game\image matching game\obj\Debug\imageMatchingGame.csproj.GenerateResource.Cache
