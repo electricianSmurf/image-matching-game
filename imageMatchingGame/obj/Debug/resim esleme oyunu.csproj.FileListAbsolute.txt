@@ -1,0 +1,19 @@
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\bin\Debug\resim esleme oyunu.exe.config
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\bin\Debug\resim esleme oyunu.exe
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\bin\Debug\resim esleme oyunu.pdb
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.csprojResolveAssemblyReference.cache
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim_esleme_oyunu.Form1.resources
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim_esleme_oyunu.Properties.Resources.resources
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.csproj.GenerateResource.Cache
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.exe
+C:\Users\Yücel\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.pdb
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\bin\Debug\resim esleme oyunu.exe.config
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.exe
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.pdb
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\bin\Debug\resim esleme oyunu.exe
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\bin\Debug\resim esleme oyunu.pdb
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim_esleme_oyunu.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim esleme oyunu.csproj.GenerateResource.Cache
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim_esleme_oyunu.gameForm.resources
+C:\Users\R\Desktop\VStudio projects\resim esleme oyunu\resim esleme oyunu\obj\Debug\resim_esleme_oyunu.messageBoxForm.resources
